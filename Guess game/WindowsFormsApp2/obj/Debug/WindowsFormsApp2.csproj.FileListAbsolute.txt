@@ -1,0 +1,10 @@
+E:\Guess game\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Guess game\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Guess game\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Guess game\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\Guess game\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Guess game\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Guess game\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Guess game\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Guess game\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Guess game\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
